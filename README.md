@@ -2,8 +2,4 @@
 
 This is a personal portfolio website I created during my senior year at IU!
 <br><br><br><br>
-You can view this website with the link below: 
-<br><br>
-https://cgi.soic.indiana.edu/~mrweston/WebDesignFinal/home.html
-
-<a href="https://cgi.soic.indiana.edu/~mrweston/WebDesignFinal/home.html" target="_blank">example</a>
+You can view this website with <a href="https://cgi.soic.indiana.edu/~mrweston/WebDesignFinal/home.html" target="_blank">here</a>.
