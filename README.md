@@ -6,4 +6,4 @@ You can view this website with the link below:
 <br><br>
 https://cgi.soic.indiana.edu/~mrweston/WebDesignFinal/home.html
 
-<a href="https://cgi.soic.indiana.edu/~mrweston/WebDesignFinal/home.html/" target="_blank">example</a>
+<a href="https://cgi.soic.indiana.edu/~mrweston/WebDesignFinal/home.html" target="_blank">example</a>
