@@ -263,6 +263,14 @@
 						border: 2px solid white;
 					}
 
+					#my_popup1 h2.close_dialog {
+						position: absolute;
+						bottom: 1%;
+						right: 3%;
+						font-size: 16px;
+						color: white;
+					}
+
 					/* Popup 2 (Teach IT) */
 					#my_popup2 {
 						margin: 0 auto;
@@ -291,6 +299,14 @@
 						height: 15%;
 					}
 
+					#my_popup2 h2.close_dialog {
+						position: absolute;
+						bottom: 1%;
+						right: 1%;
+						font-size: 16px;
+						color: white;
+					}
+
 					/* Popup 3 (Unity Project) */
 					#my_popup3 h1 {
 						font-size: 60px;
@@ -301,6 +317,14 @@
 						width: 100%;
 						height: 30%;
 						border: 2px solid white;
+					}
+
+					#my_popup3 h2.close_dialog {
+						position: absolute;
+						bottom: 1%;
+						right: 1%;
+						font-size: 16px;
+						color: white;
 					}
 
 
