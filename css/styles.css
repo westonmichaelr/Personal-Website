@@ -358,9 +358,9 @@
 
 		.bottom h1 {
 			text-align: left;
+			font-size: 30px;
 			margin-left: 10%;
 			color: white;
-			font-size: 20px;
 		}
 
 		.bottom p {
@@ -372,9 +372,23 @@
 			line-height: .2;
 			text-shadow: none;
 		}
+		
+		.bottom a {
+			text-align: left;
+			color: white;
+			text-decoration: underline;
+			font-size: 20px;
+			font-style: italic;
+			line-height: .2;
+			text-shadow: none;
+		}
+		
+		.bottom a:hover {
+			color: #599D9F;
+		}
 
 
-/* RWD Test
+/* RWD- Media Query Test
  #rwd {
     position: fixed;
     bottom: 0;
